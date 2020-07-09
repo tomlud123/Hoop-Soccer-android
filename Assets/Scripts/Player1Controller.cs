@@ -6,7 +6,7 @@ public class Player1Controller : MonoBehaviour
 {
 
     public float speed;                //Floating point variable to store the player's movement speed.
-    private Rigidbody2D rb2d;        //Store a reference to the Rigidbody2D component required to use 2D Physics.
+    private Rigidbody2D rb2d;        //Store a reference to the Rigidbody2D component required to use 2D Physics.asd
     public Sprite spriteNormal;
     public Sprite spriteSpeeded;
     public Button turboButton;
