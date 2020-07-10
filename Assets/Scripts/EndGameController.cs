@@ -14,7 +14,7 @@ public class EndGameController : MonoBehaviour
 
     //ads variables
     string gameId = "3704809";
-    bool testMode = true;
+    bool testMode = false;
     // Start is called before the first frame update
     void Start()
     {

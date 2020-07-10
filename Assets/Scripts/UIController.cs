@@ -14,7 +14,7 @@ public class UIController : MonoBehaviour
     float startGameTime;
     private int timeUntilEnd;
     private int lastTick;
-    private int MATCH_LENGTH=10;//TODO 90~~nwm
+    private int MATCH_LENGTH=120;//TODO 90~~nwm
     // Start is called before the first frame update
     void Start()
     {
